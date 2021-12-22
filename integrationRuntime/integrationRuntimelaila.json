@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntimelaila",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
