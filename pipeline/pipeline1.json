@@ -41,7 +41,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"items": {
-						"value": "@activity('exportabledatalake').output",
+						"value": "@activity('exportabledatalake').output.value",
 						"type": "Expression"
 					},
 					"activities": [
